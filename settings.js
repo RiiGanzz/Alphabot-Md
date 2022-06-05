@@ -8,7 +8,7 @@ global.APIs = {
 
 // Free apikey
 global.APIKeys = {
-	'https://api.zeeoneofc.xyz': 'your apikey',  // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+	'https://api.zeeoneofc.xyz': 'VDzNziqW',  // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
 }
 
 // setting 
@@ -18,27 +18,26 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "Fiik BoOtzོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ Ϝιιιƙོ ×፝֟͜×" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.github = "https://zeeone-ofc.github.io/" //bebas
+global.botname = " ChMy-Botzོ" //namabot kalian
+global.ownername= "TM᭄Ismanོ×፝֟͜×" //nama kalian
+global.myweb ="https://api.ismantm.xyz" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/IsmanTM" //bebas asal jan hapus
+global.github = "https://isman-tm.github.io/" //bebas
 global.email = "zeeoneofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "628986011414" // nomor wa kalian
-global.ownernomerr = "+628986011414" //nmr wa kalian
+global.ownernomer = "6282237949722" // nomor wa kalian
+global.ownernomerr = "+6282237949722" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["628986011414","62895347198105"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Ϝιιƙ4ყσυོ' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.owner = ["628986011414","6282237949722","6282237949722"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© ChMyོ' //sticker wm ubah
+global.author = 'Botz' //sticker wm ganti nama kalian
 global.sessionName = 'session2'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
