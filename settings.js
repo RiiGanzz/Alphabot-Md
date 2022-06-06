@@ -18,22 +18,22 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = " ChMy-Botzོ" //namabot kalian
-global.ownername= "TM᭄Ismanོ×፝֟͜×" //nama kalian
-global.myweb ="https://api.ismantm.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/IsmanTM" //bebas asal jan hapus
-global.github = "https://isman-tm.github.io/" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.botname = "RifBotZ-Mdོ" //namabot kalian
+global.ownername= "ArifXyz ?" //nama kalian
+global.myweb ="https://api.arifxyzofc.xyz" //bebas asal jan hapus
+global.youtube = "https://youtube.com/channel/UCX9P1UQ5vaXEwB44EOqB8Uw" //bebas asal jan hapus
+global.github = "https://RifBotZ1912.github.io/" //bebas
+global.email = "aldashakila23@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "6282237949722" // nomor wa kalian
-global.ownernomerr = "+6282237949722" //nmr wa kalian
-global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.donasi = "./image/donasi.jpg" // foto donasi di folder image
+global.ownernomer = "62895347198105" // nomor wa kalian
+global.ownernomerr = "+62895347198105" //nmr wa kalian
+global.thumbnail = "./image/lol1.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.donasi = "./image/donasi1.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6282218677120","62895347198105"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© ChMyོ' //sticker wm ubah
-global.author = 'Botz' //sticker wm ganti nama kalian
-global.sessionName = 'session2'
+global.owner = ["62895347198105"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© RufBotZ-Mdོ' //sticker wm ubah
+global.author = 'Di Buat Oleh ArifXyz' //sticker wm ganti nama kalian
+global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
