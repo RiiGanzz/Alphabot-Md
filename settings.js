@@ -18,21 +18,21 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "RifBotZ-Mdོ" //namabot kalian
-global.ownername= "ArifXyz ?" //nama kalian
+global.botname = "RiiBot-Mdོ" //namabot kalian
+global.ownername= "Rii OFC ?" //nama kalian
 global.myweb ="https://api.arifxyzofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCX9P1UQ5vaXEwB44EOqB8Uw" //bebas asal jan hapus
-global.github = "https://RifBotZ1912.github.io/" //bebas
-global.email = "aldashakila23@gmail.com" //bebas
+global.github = "https://RiiGanzz.github.io/" //bebas
+global.email = "RiiClouds@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "62895347198105" // nomor wa kalian
-global.ownernomerr = "+62895347198105" //nmr wa kalian
+global.ownernomer = "6281247822525" // nomor wa kalian
+global.ownernomerr = "+6281247822525" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62895347198105"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© RifBotZ-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh ArifXyz' //sticker wm ganti nama kalian
+global.owner = ["6281247822525"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© RiiBot-Mdོ' //sticker wm ubah
+global.author = 'Di Buat Oleh Rii OFC' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
